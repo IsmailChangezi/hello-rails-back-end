@@ -2,8 +2,6 @@
 
 <div align="center">
 
-
-
   <h3><b>Hello Rails Back End</b></h3>
 
 </div>
@@ -15,6 +13,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+
 - [💻 Getting Started](#getting-started)
   - [Available Scripts](#available-scripts)
   - [Clone](#clone)
@@ -29,7 +28,7 @@
 # 📖 Hello Rails Back End
 
 Hello Rails Back End is an API for the Hello World project with two apps
-with the [Hello React Front End](https://github.com/Swarzstein/hello-react-front-end) as the front end app.
+with the [Hello React Front End](https://github.com/IsmailChangezi/hello-react-front-end) as the front end app.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -61,10 +60,10 @@ To get a local copy up and running follow these simple example steps.
 Clone this repository to your desired folder:
 
 ```sh
-  git clone https://github.com/Swarzstein/hello-rails-back-end.git
+  git clone https://github.com/IsmailChangezi/hello-rails-backend.git
 ```
-To install the necessary dependencies, you should run:
 
+To install the necessary dependencies, you should run:
 
 ```
 bundler install
@@ -80,14 +79,15 @@ rubocop -A
 
 To fix all Linter error automatically
 
-## Usage 
+## Usage
 
 To run the project, execute the following command:
+
 ```
   rails server
-``` 
+```
 
-and run the project [Hello React Front End](https://github.com/Swarzstein/hello-react-front-end)
+and run the project [Hello React Front End](https://github.com/IsmailChangezi/hello-react-front-end)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- AUTHOR -->
@@ -96,8 +96,8 @@ and run the project [Hello React Front End](https://github.com/Swarzstein/hello-
 
 👤 **Juan Zorrilla**
 
-- GitHub: [@Swarzstein](https://github.com/Swarzstein)
-- LinkedIn: [Juan Zorrilla](https://www.linkedin.com/in/juan-a-zorrilla/)
+- GitHub: [@Ismail Changezi](https://github.com/IsmailChangezi)
+- LinkedIn: [Ismail Changezi](https://www.linkedin.com/in/ismailchangezi/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -107,11 +107,10 @@ and run the project [Hello React Front End](https://github.com/Swarzstein/hello-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/Swarzstein/hello-rails-back-end/issues).
+Feel free to check the [issues page](https://github.com/IsmailChangezi/hello-rails-backend/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -141,5 +140,3 @@ Thanks to microverse for the oportunity of this course and my parents who suppor
 This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
