@@ -94,7 +94,7 @@ and run the project [Hello React Front End](https://github.com/IsmailChangezi/he
 
 ## 👥 Author <a name="authors"></a>
 
-👤 **Juan Zorrilla**
+👤 **Ismail Changezi**
 
 - GitHub: [@Ismail Changezi](https://github.com/IsmailChangezi)
 - LinkedIn: [Ismail Changezi](https://www.linkedin.com/in/ismailchangezi/)
